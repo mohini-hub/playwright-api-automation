@@ -15,6 +15,8 @@ API automation project using Playwright (JavaScript) against the Restful-booker 
 JavaScript, Node.js, Playwright
 
 ## How to run
+```bash
 npm install
 npx playwright test
 npx playwright show-report
+```
